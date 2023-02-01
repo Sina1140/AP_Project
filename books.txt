@@ -1,0 +1,10 @@
+Harry_Potter A1 J.K.Rowling 1 Bloomsbury 1998 9780747542988223 452 Fantasy taken b
+The_Lord_of_the_Rings B2 Tolkien 2 Houghton_Mifflin 2001 97806181290271137 568 Epic taken kittykillua
+GNU_Emacs_Manual C4 Richard_Stallman 9 Free_Software_Foundation 1993 9781882114030404 565 Computer_Software free NULL
+Hafiz A2 Hafiz 1 CreateSpace 2015 9781511986649676 880 Poetry taken kittykillua
+Shahnameh A3 Ferdowsi 1 Penguin 2016 97811019932311040 984 Epic taken sina1140
+Hasht_Ketab A4 Sohrab_Sepehri 1 Createspace 2017 9781546711742294 125 Poetry free NULL
+Just_for_Fun B3 Linus_Torvalds 1 HarperCollins 2002 9780066620732288 120 Biography taken Al_pico
+Alex_Ferguson B3 Alex_Ferguson 1 Hodder 2013 9780340919392402 120 Biography free NULL
+TheC++Programming_Language D2 Bjarne_Stroustrup 1 Addison-Wesley 2013 97803215638421346 400 Computers taken mike_sd
+Feynman B3 Jim_Ottaviani 1 First_Second 2013 9781596438279272 212 Biography taken RichFyen
